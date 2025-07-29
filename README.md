@@ -172,4 +172,4 @@ npm run test
 ### Environment Variables
 *Note: Specific environment variables are required for configuration, but their details are omitted here for security.*
 
-**Built with ❤️ for MERN stack developers**
+**Built with ❤️**
